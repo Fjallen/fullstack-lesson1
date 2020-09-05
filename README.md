@@ -17,6 +17,6 @@
 # Lesson 2: React Router
 *  Add Multiple Pages to the React Application
 
-# Lesson 2: Retrieve and Display a list
+# Lesson 3: Retrieve and Display a list
 * The Server serves an array of items
 * The client retrieves the list and displays it
